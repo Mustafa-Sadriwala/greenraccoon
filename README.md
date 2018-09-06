@@ -4,3 +4,5 @@ We went from not knowing a line of react-native to some nice UI and functionalit
 <img src="Images/gh_3.png" width="250" height="444.44">
   
 Live, in-browser demo [here](https://snack.expo.io/Bys9hVqnG)
+
+Credit: Sid Devic, Alan Liao, Mustafa Sadriwala, and Mira Jambusaria
